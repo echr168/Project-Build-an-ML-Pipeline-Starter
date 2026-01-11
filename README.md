@@ -6,6 +6,11 @@ to be retrained with the same cadence, necessitating an end-to-end pipeline that
 
 In this project you will build such a pipeline.
 
+## Project Links
+
+- **GitHub Repository:** https://github.com/echr168/Project-Build-an-ML-Pipeline-Starter
+- **Weights & Biases Project:** https://wandb.ai/echr168-western-governors-university/nyc_airbnb
+
 ## Table of contents
 
 - [Preliminary steps](#preliminary-steps)
@@ -87,7 +92,7 @@ NOTE: do NOT hardcode any parameter when writing the pipeline. All the parameter
 accessed from the configuration file.
 
 ### Running the entire pipeline or just a selection of steps
-In order to run the pipeline when you are developing, you need to be in the root of the starter kit, 
+In order to run the pipmax_deptheline when you are developing, you need to be in the root of the starter kit, 
 then you can execute as usual:
 
 ```bash
